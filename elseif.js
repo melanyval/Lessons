@@ -1,5 +1,6 @@
 function likes(names) {
 
+    //text
 
 if(names.length == '0')
 return "no one like this"
